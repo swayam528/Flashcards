@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -43,11 +43,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+More categories and questions to come that are better randomized.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Swayam Arora]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

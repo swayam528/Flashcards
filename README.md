@@ -4,7 +4,7 @@ Submitted by: **Swayam Arora**
 
 This web app: **Flashy Flashcards is your one stop shop to aceing plant trivia! be on the lookout for new categories.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -25,12 +25,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you added to improve the site's functionality!
+- [x] Cards have a reset button that re-starts the deck from card 1
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='./flashyflashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Flashcards/flashyflashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
